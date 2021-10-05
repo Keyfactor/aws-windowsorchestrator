@@ -36,7 +36,7 @@ AWS Certificate Manager is a service that lets you easily provision, manage, and
 ![image.png](/Media/Images/CertStoreTypes.gif)
 
 ### Important Items
-1)  **Short Name** must Match what is in the screenshot "AWSCerMan"
+1)  **Short Name** must Match what is in the screenshot "AwsCerMan"
 
 2) **Regions** should be defined like they are in the screenshot under Store Path Value.  There is a list of regions here:
 https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.RegionsAndAvailabilityZones.html
