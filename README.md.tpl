@@ -33,10 +33,7 @@ AWS Certificate Manager is a service that lets you easily provision, manage, and
 ## **Installation**
 
 ### Cert Store Type Settings
-![image.png](/Media/Images/CertStoreType-Basic.gif)
-![image.png](/Media/Images/CertStoreType-Advanced.gif)
-![image.png](/Media/Images/CertStoreType-CustomFields.gif)
-![image.png](/Media/Images/CertStoreType-EntryParams.gif)
+![image.png](/Media/Images/CertStoreTypes.gif)
 
 ### Important Items
 1)  **Short Name** must Match what is in the screenshot "AwsCerMan"
